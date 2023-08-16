@@ -1,1 +1,1 @@
-TinDog Starting Files
+A landing page for a dummy Application.
